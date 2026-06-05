@@ -117,7 +117,7 @@ Focused on **real-world production systems**, high performance, and automation.
 ## 📫 Contact
 
 * GitHub: https://github.com/IntelligentGod
-* Email: bluedragon.cstar@outlook.com
+* Email: harri970509@gmail.com
 * Telegram: @HarryPotterWizard9
 
 ---
